@@ -6,7 +6,6 @@ log = logger(__name__)
 app = Flask(__name__)
 Swagger(app)
 
-BREAK PYTHON CODE !@*&($@!*(@£!))
 
 @app.route("/")
 def hello():
