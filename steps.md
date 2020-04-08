@@ -3,6 +3,13 @@
 ## Step 1: Propose and Scope the Project
 
 - Plan what your pipeline will look like.
+
+  - Checkout
+  - Lint
+  - Build
+  - Push
+  - Deploy (rolling)
+
 - Decide which options you will include in your Continuous Integration phase.
 - Use Jenkins.
 - Pick a deployment type - either rolling deployment or blue/green deployment.
